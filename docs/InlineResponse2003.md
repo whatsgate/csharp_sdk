@@ -1,0 +1,10 @@
+# IO.Swagger.Model.InlineResponse2003
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**Result** | **string** | при удачном исполнении запроса содержит OK | [optional] 
+**Media** | [**Media**](Media.md) |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
